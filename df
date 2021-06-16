@@ -1,0 +1,62 @@
+[33mcommit 311dcf4ea2e6d8955a09063f9b24662cf6a14faa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8baef8c ab36328
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 01:18:03 2021 -0700
+
+    conflict fixed by me
+
+[33mcommit 8baef8c9448f5d47d0979a7f590b8f429c3f5b32[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 01:10:33 2021 -0700
+
+    negative answer added
+
+[33mcommit ab36328315a5d0bf5d8caf0d2def1e553369f39d[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 01:08:26 2021 -0700
+
+    positive answer added
+
+[33mcommit f1ca1c2e98f673447c7b4bca64a5903e35b92be1[m
+Merge: 5022f5c 7e0264e
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 00:51:55 2021 -0700
+
+    Merge branch 'feature'
+    seperate branches mereged
+
+[33mcommit 7e0264e7ad6d9362ce7ee8bda426c801e8db8ab9[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 00:46:34 2021 -0700
+
+    index modified for recursive merge
+
+[33mcommit 5022f5c9288913f8ba4dfec14b0c861c35c12b05[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 00:41:52 2021 -0700
+
+    style modified for recursive merge
+
+[33mcommit 6d6d068de58f2b81a3b71f4921115f569f42f1a7[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 00:21:56 2021 -0700
+
+    style second commit
+
+[33mcommit 2cd6448a058799a8c14ff3425ac9e58813656ad3[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 00:15:50 2021 -0700
+
+    second file first commit
+
+[33mcommit c76a24681392beb6fe70ff6e36d36e3bd7ca9a95[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 00:11:42 2021 -0700
+
+    second commit first file
+
+[33mcommit ef46d9b609cf281319eee4f8c9dc195ff68fb074[m
+Author: Shanif.k.Shareef <shanifshareef@gmail.com>
+Date:   Mon Jun 14 00:08:28 2021 -0700
+
+    first file commit
